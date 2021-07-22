@@ -64,6 +64,8 @@ span {
 
 @media screen and (min-width: 950px) {
   body { margin: 2.5rem; }
+  
+  h1 {font-size: 2rem;}
 
   .intro p {
     width: 40%;
